@@ -1,3 +1,2 @@
-/risc-v,CONFIG_RV32IM_TOOLCHAIN_GNU_RVGL
--gapuino:nsh
--nr5m100-nexys4:nsh
+hifive1-revb:nsh
+maix-bit:elf
